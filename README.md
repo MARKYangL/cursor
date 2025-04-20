@@ -14,7 +14,6 @@
 > This repository contains the final backup before the original repository was deleted. You are welcome to star this project to preserve these source codes. I have attempted to modify some of the referenced links to point to the backup repository, but it is possible that some logic may not have been fully replaced. If anyone is willing to fix these issues, feel free to submit a pull request to update the links to the new backup repository.
 > Please remember to fork this repository to ensure you have your own copy, as having it in your own hands is the safest way to keep it. Before synchronizing or pulling any changes, make sure to check the git history, as I may be required by GitHub or the original source (Cursor) to remove the source code at any time. Please ensure that you have a proper backup of the git history.
 
-**Fork This Repository:** [canmi21/cursor](https://github.com/canmi21/cursor/fork)
 
 ## 💻 System Support | 系統支持
 
